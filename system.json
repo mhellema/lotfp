@@ -25,6 +25,6 @@
   "gridDistance": 5,
   "gridUnits": "ft",
   "url": "https://gitlab.com/phillgamboa/lotfp-revised",
-  "manifest": "https://gitlab.com/phillgamboa/lotfp-revised/raw/master/system.json",
-  "download": "https://gitlab.com/phillgamboa/lotfp-revised/-/archive/master/lotfp-revised-master.zip"
+  "manifest": "https://gitlab.com/phillgamboa/lotfp-revised/raw/main/system.json",
+  "download": "https://gitlab.com/phillgamboa/lotfp-revised/-/archive/main/lotfp-revised-main.zip"
 }
