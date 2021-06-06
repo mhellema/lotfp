@@ -2,7 +2,7 @@
   "name": "lotfp",
   "title": "Lamentations Of The Flame Princess",
   "description": "Lamentations of the flame princess system, a fork based on OSE module.",
-  "version": "2.1.6",
+  "version": "2.1.8",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.6",
   "templateVersion": 1,
