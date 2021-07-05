@@ -65,7 +65,7 @@ export const OSE = {
     "Slave",
     "Slave Master",
     "Spy"
-    "Teamster"
+    "Teamster",
   ],
   tags: {
     melee: "OSE.items.Melee",
