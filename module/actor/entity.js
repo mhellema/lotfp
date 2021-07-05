@@ -656,7 +656,7 @@ export class OseActor extends Actor {
 
     // Compute AC
     let baseAc = 9;
-    let baseAac = 10;
+    let baseAac = 12;
     let AcShield = 0;
     let AacShield = 0;
 
