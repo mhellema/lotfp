@@ -1,28 +1,23 @@
-
-{ 
+{
   "id": "lotfp",
-  "name": "lotfp",
   "title": "Lamentations Of The Flame Princess",
   "description": "Lamentations of the flame princess system, a fork based on OSE module.",
   "authors": [
     {
-      "name": "mhellema",
-      "email": "mikko.hellemaa@gmail.com"
-    }  
+    "name": "mhellema"
+    }
   ],
-  "version": "3.0.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
-    "verified": "11",
-     "maximum": "11" 
-  },
+    "verified": "11"
+  }
+},
   "minimumCoreVersion": "10",
   "esmodules": [
     "ose.js"
   ],
 
-
-  
   "templateVersion": 1,
   "styles": ["ose.css"],
   "packs": [],
