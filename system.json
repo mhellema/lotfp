@@ -1,13 +1,28 @@
-{
+
+{ 
+  "id": "lotfp",
   "name": "lotfp",
   "title": "Lamentations Of The Flame Princess",
   "description": "Lamentations of the flame princess system, a fork based on OSE module.",
-  "version": "2.1.12",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.8",
+  "authors": [
+    {
+      "name": "mhellema",
+      "email": "mikko.hellemaa@gmail.com"
+    }  
+  ],
+  "version": "3.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "minimumCoreVersion": "10",
+  "esmodules": [
+    "ose.js"
+  ],
+
+
+  
   "templateVersion": 1,
-  "author": "Phillipe Gambôa",
-  "esmodules": ["ose.js"],
   "styles": ["ose.css"],
   "packs": [],
   "languages": [
@@ -24,7 +39,7 @@
   ],
   "gridDistance": 5,
   "gridUnits": "ft",
-  "url": "https://gitlab.com/phillgamboa/lotfp-revised",
-  "manifest": "https://gitlab.com/phillgamboa/lotfp-revised/raw/main/system.json",
-  "download": "https://gitlab.com/phillgamboa/lotfp-revised/-/archive/main/lotfp-revised-main.zip"
+  "url": "https://gitlab.com/mhellema/lotfp",
+  "manifest": "https://gitlab.com/mhellema/lotfp/raw/main/system.json",
+  "download": "https://gitlab.com/mhellema/lotfp/lotfp-main.zip"
 }
